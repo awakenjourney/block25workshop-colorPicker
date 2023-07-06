@@ -1,3 +1,3 @@
-# 🎨 Color Picker
+# 🎨 Color Picker Workshop
 
-Follow the instructions in the workshop to finish the assignment!
+This is Sombat Mayer's project
